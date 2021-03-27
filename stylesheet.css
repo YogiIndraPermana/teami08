@@ -1,0 +1,157 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: #a7108d;
+  color: white;
+  height: 80px;
+  width:99%;
+  position:fixed;
+
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  font-style:bold;
+}
+
+.header-list li {
+  float: left;
+  padding: 20px 20px;
+  font-size:15px;
+}
+.Cari input{
+ width:700px;
+ height:40px;
+ float:left;
+ margin-top:2px;
+ margin-right:10px;
+ margin-left:30;
+ border-radius:30px;
+ display:block;
+}
+.Cari Button{
+  width:100px;
+ height:45px;
+ float:left;
+ margin-top:2px;
+ margin-right:10px;
+ color:#700759;
+ font-size:20px;
+ display;block;
+ border-radius:10px;
+}
+
+.main {
+ 
+}
+
+.copy-container img{
+width:1333px;
+height:400px;
+display:block;
+padding-top:100px;
+}
+
+.populer img{
+  width:1333px;
+  height: 100px;
+  display:block;
+  padding-top:20px;
+}
+
+.contents {
+  height: 280px;
+  margin-top:50px;
+  border-bottom:5px solid #a7108d;
+  margin-bottom:10px;
+  
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size:28px;
+  padding-bottom:15px;
+
+  margin-bottom:50px;
+}
+
+.contents-item {
+  float: left;
+  margin-right:5px;
+  
+  
+
+}
+.contents-item p {
+  font-size:24px;
+  margin-top:30px;
+  
+  margin-left:90px;
+
+}
+.contents-item img{
+  margin-left:40px;
+  height:200px;
+  width:200px;
+  padding-right:20px;
+
+}
+.footer {
+  background-color: #490432;
+  color: #fff;
+  height: 70px;
+  padding: 40px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+  margin-top:10px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+  
+}
+.contents-buy{
+  height:700px;
+}
+.line-1{
+  margin-bottom:10px;
+ padding-top:10px;
+}
+.contents-buy line-2{
+  margin-top:20px;
+}
+.Beli{
+  background-color:green;
+  margin-bottom:10px;
+  float:left;
+  margin-left:50px;
+  border:none;
+  padding-right:10px;
+  color:white;
+  height:20px;
+  border-radius: 10px;
+  
+}
+.Keranjang{
+  background-color: orange;
+  margin-bottom:10px;
+  border:none;
+  height:20px;
+  border-radius: 10px;
+  float:left
+}
